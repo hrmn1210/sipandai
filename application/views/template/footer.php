@@ -6,9 +6,9 @@
                 <div class="single-footer-widget tp_widgets">
                     <h6 class="footer_title">Tentang Kami</h6>
                     <ul class="list">
-                        <li><a href="<?= base_url('welcome/tentang') ?>">Tentang Learnify</a></li>
-                        <li><a href="<?= base_url('welcome/materi') ?>">Materi Learnify</a></li>
-                        <li><a href="<?= base_url('welcome/kontak') ?>">Kontak Learnify</a></li>
+                        <li><a href="<?= base_url('welcome/tentang') ?>">Tentang Si-Pandai</a></li>
+                        <li><a href="<?= base_url('welcome/materi') ?>">Materi Si-Pandai</a></li>
+                        <li><a href="<?= base_url('welcome/kontak') ?>">Kontak Si-Pandai</a></li>
                     </ul>
                 </div>
             </div>
@@ -54,16 +54,16 @@
                 Copyright &copy;<script>
                     document.write(new Date().getFullYear());
                 </script> All rights reserved | This template is made with <span class="text-danger"> &#10084;</span> by
-                <a href="https://colorlib.com" target="_blank">Colorlib</a> <br> Si-Pandai is made with <span class="text-danger"> &#10084;</span> by <a href="https://github.com/syauqi">Herman Firmansyah </a> with MIT License
+                <a href="https://colorlib.com" target="_blank">Colorlib</a> <br> Si-Pandai is made with <span class="text-danger"> &#10084;</span> by <a href="https://github.com/hrmn1210/project_akhir">Herman Firmansyah </a> with MIT License
                 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
             </p>
             <div class="col-lg-4 col-md-4 footer-social">
-                <a href="https://www.facebook.com/syaaauqi"><i class="fa fa-facebook"></i></a>
-                <a href="https://twitter.com/syaaauqi"><i class="fa fa-twitter"></i></a>
-                <a href="https://dribbble.com/syaufy"><i class="fa fa-dribbble"></i></a>
-                <a href="https://www.behance.net/syaufy"><i class="fa fa-behance"></i></a>
-                <a href="https://www.github.com/syauqi"><i class="fa fa-github"></i></a>
-                <a href="https://www.instagram.com/syaufy"><i class="fa fa-instagram"></i></a>
+                <a href="#"><i class="fa fa-facebook"></i></a>
+                <a href="#"><i class="fa fa-twitter"></i></a>
+                <a href="#"><i class="fa fa-dribbble"></i></a>
+                <a href="#"><i class="fa fa-behance"></i></a>
+                <a href="https://github.com/hrmn1210/project_akhir"><i class="fa fa-github"></i></a>
+                <a href="#"><i class="fa fa-instagram"></i></a>
             </div>
         </div>
     </div>

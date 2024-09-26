@@ -21,7 +21,7 @@
     <div class="container">
         <div class="main_title">
             <h2 data-aos="fade-up" data-aos-duration="1600" style="font-size: 33px !important;">Tentang Si-Pandai - Web Edukasi Open Source</h2>
-            <p data-aos="fade-up" data-aos-duration="1800">Si-Pandai adalah Web Edukasi Open-Source yang dibuat oleh <a href="https://web.facebook.com/syaaauqi">Herman Firmansyah.</a> Website
+            <p data-aos="fade-up" data-aos-duration="1800">Si-Pandai adalah Web Edukasi Open-Source yang dibuat oleh <a href="https://github.com/hrmn1210/project_akhir">Herman Firmansyah.</a> Website
                 pembelajaran dimana para siswa dapat belajar dimana saja dan kapan saja.
                 Guru dapat mengupload video dirinya sendiri sedang mengajar, sehingga tanpa takut adanya jam
                 kosong atau pun keadaan yang tidak terduga apapun karena Si-Pandai dapat diakses dimana saja dan

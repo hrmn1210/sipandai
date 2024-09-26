@@ -121,7 +121,7 @@ guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
                                         Pembuat</a>
                                 </li>
                                 <li><a class="nav-link" href="<?= base_url('admin/about_learnify') ?>">Tentang
-                                        Learnify</a>
+                                        Si-Pandai</a>
                                 </li>
                             </ul>
                         </li>
@@ -185,7 +185,7 @@ guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
     <!-- Start Footer -->
     <footer class="main-footer">
         <div class="text-center">
-            Copyright &copy; 2020 <div class="bullet"></div><a href="https://github.com/syauqi">Syauqi Zaidan Khairan Khalaf</a>
+            Copyright &copy; 2024 <div class="bullet"></div><a href="https://github.com/syauqi">Herman Firmansyah</a>
         </div>
     </footer>
     <!-- End Footer -->
